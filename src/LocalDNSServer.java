@@ -1,4 +1,8 @@
 
+/**
+ * @version  1.0
+ * @author liu.huazhou <khzliu@163.com>
+ */
 import java.net.*;
 import java.io.*;
 
